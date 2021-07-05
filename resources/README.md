@@ -1,4 +1,4 @@
-# Minicompute :-)
+# Resources repository :-)
 
 This is a demo project which shows the workflow implementation based on AWS stack.
 In order to install the actual dependencies run  
